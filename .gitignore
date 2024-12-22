@@ -1,0 +1,43 @@
+# Scan Results
+results/
+*.json
+
+# Temporary files
+temp_repos/
+temp/
+tmp/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment variables and secrets (in case you add GitHub token support later)
+.env
+*.env
+.env.local
+.env.*
+
+# Debug files
+*.debug
+debug/

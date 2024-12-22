@@ -105,7 +105,7 @@ MIT License
 
 ## Author
 
-Your Name (@yourusername)
+@johnforfar
 
 ## Acknowledgments
 
